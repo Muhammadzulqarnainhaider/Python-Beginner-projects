@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "audion-visualization-tools"
+version = "0.1.0"
+description = ""
+authors = ["Muhammadzulqarnainhaider <zh576198@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyaudio = "^0.2.14"
+numpy = "^1.26.4"
+matplotlib = "^3.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
