@@ -2,10 +2,11 @@ Import and Constants:
 
 Python
 import random 
+<!--  -->
 
-NUM_DIGITS = 3 
-MAX_GUESSES = 10 
-Use code with caution.
+# NUM_DIGITS = 3 
+# MAX_GUESSES = 10 
+<!--  -->
 
 import random: This line imports the random module, which is used to generate random numbers.
 NUM_DIGITS: This constant sets the number of digits in the secret number (3 in this case).
